@@ -1,0 +1,41 @@
+------------- Objetos: trabajos dentro de un centro de salud / Clases: profesiones, oficios, especialidades
+enfermera
+doctor
+nutriologo
+secretaria
+anestesiologo
+auxiliar de aseo
+guardia de seguridad
+------------- Objetos: motivos de consulta /Clases: sintomas, enfermedades, condiciones, urgencia
+tos
+fiebre
+sarpullido
+enfermedades mentales
+fractura
+meningitis
+arritmia
+hipertension
+esquizofrenia
+hipotiroidismo
+------------- Objetos: tipos de prevision /Clases: publico, privado
+fonasa
+isapre
+------------- Objetos:  /Clases:
+quirofano A23
+box 21
+urgencias
+traumatologia
+neonatologia
+------------- Objetos:/Clases:
+Paciente: Juan Pedro Salgado, San Martin #2323
+------------- Objetos: no identificado /Clases: numeros
+89898989
+
+
+
+
+
+
+
+torta sería objeto, la receta de la misma sería la clase
+caracteristica y clase
